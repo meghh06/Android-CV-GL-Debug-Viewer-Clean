@@ -33,13 +33,13 @@ The accompanying web viewer displays simulated processed frames with futuristic 
 ## 🖼️ Screenshots  
 
 **1️⃣ Interface Overview (Idle State)**  
-![UI Screenshot – Idle](./screenshots/Scr(1).png)  
+![UI Screenshot – Idle](./screenshots/screen1.png)  
 
 **2️⃣ Live Stream (Invert Filter Applied)**  
-![UI Screenshot – Invert Filter](./screenshots/Scr(2).png)  
+![UI Screenshot – Invert Filter](./screenshots/screen2.png)  
 
 **3️⃣ Real-Time Edge Detection at 30 FPS**  
-![UI Screenshot – Edge Detection](./screenshots/Scr(3).png)  
+![UI Screenshot – Edge Detection](./screenshots/screen3.png)  
 
 ---
 
